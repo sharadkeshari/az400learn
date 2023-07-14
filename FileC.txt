@@ -1,2 +1,3 @@
 This is file C
 made change in the feture branch.
+make another change for sqash merge
